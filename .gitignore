@@ -1,0 +1,12 @@
+# Build
+/build/
+*.o
+*.obj
+*.exe
+tinycpu
+*.bin
+*.log
+*.dSYM/
+.vscode/
+.idea/
+.DS_Store
